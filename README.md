@@ -32,7 +32,7 @@ loan_prediction/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/loan-prediction.git
+git clone https://github.com/jimmyu2foru18/loan-prediction.git
 cd loan-prediction
 ```
 
