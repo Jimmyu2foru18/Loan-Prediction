@@ -65,7 +65,7 @@ python src/gui/main.py
 ```
 
 ## GUI Preview
-[GUI screenshot will be added here]
+[GUI Screenshot.png]
 
 ## Model Performance
 - Accuracy: [TBD]
