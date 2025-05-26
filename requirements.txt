@@ -1,0 +1,23 @@
+# Data Processing and Analysis
+numpy==1.24.3
+pandas==2.0.2
+scikit-learn==1.2.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# GUI
+streamlit==1.23.1
+
+# Jupyter Notebook
+jupyter==1.0.0
+notebook==6.5.4
+
+# Testing
+pytest==7.3.1
+
+# Development Tools
+python-dotenv==1.0.0
+black==23.3.0
+flake8==6.0.0
