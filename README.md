@@ -14,18 +14,18 @@ An automated loan prediction system that uses machine learning to predict loan a
 ```
 loan_prediction/
 ├── data/
-│   ├── raw/              # Original dataset
-│   └── processed/         # Cleaned and preprocessed data
-├── models/               # Trained model files
-├── notebooks/           # Jupyter notebooks for analysis
+│   ├── raw/
+│   └── processed/
+├── models/
+├── notebooks/
 ├── src/
-│   ├── preprocessing/    # Data preprocessing scripts
-│   ├── training/         # Model training scripts
-│   ├── visualization/    # Data visualization modules
-│   └── gui/             # GUI implementation
-├── tests/               # Unit tests
-├── requirements.txt     # Project dependencies
-└── README.md           # Project documentation
+│   ├── preprocessing/ 
+│   ├── training/   
+│   ├── visualization/
+│   └── gui/
+├── tests/
+├── requirements.txt
+└── README.md
 ```
 
 ## Installation
@@ -63,21 +63,4 @@ python src/training/train_model.py
 ```bash
 python src/gui/main.py
 ```
-
-## GUI Preview
-[GUI Screenshot.png]
-
-## Model Performance
-- Accuracy: [TBD]
-- F1 Score: [TBD]
-- ROC-AUC: [TBD]
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-- Kaggle for providing the dataset
-- [Other acknowledgments will be added]
+---
